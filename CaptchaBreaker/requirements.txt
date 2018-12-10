@@ -1,0 +1,5 @@
+captcha==0.2.1
+Pillow==4.0.0
+tensorflow==1.8.0
+
+https://drive.google.com/open?id=1balGqhmNjTaCC8Q7upXgQ8hOSNBkQOmL
