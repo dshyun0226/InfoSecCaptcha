@@ -1,0 +1,3 @@
+[submodule "captcha_userTest"]
+	path = captcha_userTest
+	url = https://github.com/cloudgray/captcha_userTest.git
